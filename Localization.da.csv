@@ -1,5 +1,5 @@
 !Property,!Text,!Note
-AppName,Sidebar Diagnostik,Name of the app
+AppName,Sidebar Diagnostic,Name of the app
 Close,Afslut,Close app taskbar menu item
 CPU,CPU,CPU monitor title
 CPUClock,CPU frekvens,Full name for CPU clock metric
